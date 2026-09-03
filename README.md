@@ -114,63 +114,6 @@
 ---
 
 <!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎤 Developer Conference Website
-
-A responsive conference website built as part of my web development learning journey.
-
-**Highlights:**
-- Responsive UI
-- Modern web layout
-- Clean and structured design
-- Focus on user experience
-
-**Tech:**  
-`HTML` `CSS`
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/minhazulkader">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-### ☕ Coffee Corner
-
-A modern coffee shop website focused on creating a clean and engaging user experience.
-
-**Highlights:**
-- Responsive design
-- Product-focused UI
-- Clean visual structure
-- User-friendly interface
-
-**Tech:**  
-`HTML` `CSS`
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/minhazulkader">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-  </tr>
-</table>
-
----
-
-<!-- ========================================================= -->
 <!--                 TECHNOLOGIES & TOOLS                      -->
 <!-- ========================================================= -->
 
@@ -207,13 +150,6 @@ A modern coffee shop website focused on creating a clean and engaging user exper
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=minhazulkader&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-</p>
 
 <p align="center">
   <img
