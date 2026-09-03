@@ -144,10 +144,6 @@ A responsive conference website built as part of my web development learning jou
   </a>
 </p>
 
-    </td>
-
-    <td width="50%" valign="top">
-
 ### ☕ Coffee Corner
 
 A modern coffee shop website focused on creating a clean and engaging user experience.
@@ -169,7 +165,6 @@ A modern coffee shop website focused on creating a clean and engaging user exper
   </a>
 </p>
 
-    </td>
   </tr>
 </table>
 
