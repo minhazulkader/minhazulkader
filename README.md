@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Minhazul%20Kader%20Tonmoy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="Profile Banner"/>
-
-</div>
-
 <h1 align="center">Hi 👋, I'm Minhazul Kader Tonmoy</h1>
 
 <h3 align="center">
