@@ -148,7 +148,6 @@ A modern and responsive coffee shop website designed with a clean and user-frien
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=minhazulkader&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazulkader&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages"/>
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
