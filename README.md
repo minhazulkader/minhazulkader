@@ -112,7 +112,7 @@ A modern and responsive conference website built to showcase event information, 
 
 **Tech Stack:** HTML · CSS · Responsive Design
 
-🔗 **[View Project](https://github.com/minhazulkader)**
+🔗 **[View Project](https://minhazulkader.github.io/devconf-2026)**
 
 ---
 
@@ -122,7 +122,7 @@ A modern and responsive coffee shop website designed with a clean and user-frien
 
 **Tech Stack:** HTML · CSS · Responsive Design
 
-🔗 **[View Project](https://github.com/minhazulkader)**
+🔗 **[View Project](https://minhazulkader.github.io/Coffee_Corner)**
 
 ---
 
