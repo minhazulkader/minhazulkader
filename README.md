@@ -106,19 +106,31 @@ My goal is to become a **skilled Full Stack Developer** and build modern, scalab
 
 ## 🌟 Featured Projects
 
-### 📚 E-Library
+### 🎤 DevConf — Developer Conference Website
 
-A digital library project designed for the **CSE Department**, providing students with easier access to academic resources.
+A modern and responsive conference website built to showcase event information, speakers, sessions, schedules, and other conference-related details.
 
-**Tech Stack:** Next.js · Supabase · Cloudinary · Figma
+**Tech Stack:** HTML · CSS · Responsive Design
+
+🔗 **[View Project](https://github.com/minhazulkader)**
 
 ---
 
-### 🌐 Personal Portfolio
+### ☕ Coffee Corner — Coffee Shop Website
 
-A personal portfolio website showcasing my **skills, projects, learning journey, and achievements**.
+A modern and responsive coffee shop website designed with a clean and user-friendly interface to showcase coffee products, menu items, and essential business information.
 
-**Tech Stack:** HTML · CSS · JavaScript
+**Tech Stack:** HTML · CSS · Responsive Design
+
+🔗 **[View Project](https://github.com/minhazulkader)**
+
+---
+
+<p align="center">
+  <a href="https://github.com/minhazulkader?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
+  </a>
+</p>
 
 ---
 
